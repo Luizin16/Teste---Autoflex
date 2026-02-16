@@ -158,10 +158,6 @@
 }
 
 user agent stylesheet
-:root {
-    view-transition-name: root;
-}
-user agent stylesheet
 html {
     display: block;
 }
