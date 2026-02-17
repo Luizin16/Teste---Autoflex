@@ -1,0 +1,15 @@
+{
+  "description": "_ This is the DEFAULT template shadcn/ui, if the user's",
+  "required_fields": [],
+  "required_files": [
+    "README.md",
+    "src/App.tsx",
+    "src/main.tsx",
+    "src/pages/Index.tsx",
+    "index.html"
+  ],
+  "lang": "typescript",
+  "framework": "react",
+  "name": "shadcn/ui",
+  "scene": "default_web_project"
+}
